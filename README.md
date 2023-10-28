@@ -2,6 +2,10 @@
 
 This lab replays and uses code from https://github.com/mjhea0/flaskr-tdd
 
+## Test cases added to the group project
+- URL: https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/feature-backend-crud-calls-for-flyers/backend/tests/test_flyer_routes.py
+- All the 3 tests `test_get_flyers`, `test_create_and_delete_flyer` and `test_update_flyer` were authored by me. 
+
 ## Pros and Cons of TDD
 ### Pros of TDD
 TDD helps in the detection of bugs in the initial stages of development. Since TDD involves writing tests before the code is written, it ensures developers can catch problems in the initial stage of their development process before these issues become significant enough to cause bigger problems. TDD helps in debugging by enabling the developers to pinpoint the errors in the recent code changes. Code quality also improves significantly due to TDD making code refactoring easy as developers have a fallback to use the tests to ensure that the code logic did not change during the refactoring process. 
