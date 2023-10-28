@@ -1,0 +1,5 @@
+# removing virtual env folder
+env/
+
+# ignoring compiled files
+*.pyc
