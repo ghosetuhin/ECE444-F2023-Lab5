@@ -3,7 +3,7 @@
 This lab replays and uses code from https://github.com/mjhea0/flaskr-tdd
 
 ## Test cases added to the group project
-- URL: https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/feature-backend-crud-calls-for-flyers/backend/tests/test_flyer_routes.py
+- URL: https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/main/backend/tests/test_flyer_routes.py
 - All the 3 tests `test_get_flyers`, `test_create_and_delete_flyer` and `test_update_flyer` were authored by me. 
 
 ## Pros and Cons of TDD
